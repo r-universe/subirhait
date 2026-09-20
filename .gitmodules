@@ -1,5 +1,76 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "AIBias"]
+	path = AIBias
+	url = https://github.com/subirhait/aibias
+[submodule "AIGovernance"]
+	path = AIGovernance
+	url = https://github.com/subirhait/aigovernance
+[submodule "CEDMr"]
+	path = CEDMr
+	url = https://github.com/subirhait/cedmr
+[submodule "CausalSpline"]
+	path = CausalSpline
+	url = https://github.com/subirhait/causalspline
+[submodule "DecisionDrift"]
+	path = DecisionDrift
+	url = https://github.com/subirhait/decisiondrift
+[submodule "EpiNova"]
+	path = EpiNova
+	url = https://github.com/subirhait/epinova
+[submodule "MLCausal"]
+	path = MLCausal
+	url = https://github.com/subirhait/mlcausal
+[submodule "MultiSpline"]
+	path = MultiSpline
+	url = https://github.com/subirhait/multispline
+[submodule "NonlinearDiD"]
+	path = NonlinearDiD
+	url = https://github.com/subirhait/nonlineardid
+[submodule "RobustFlow"]
+	path = RobustFlow
+	url = https://github.com/subirhait/robustflow
+[submodule "RobustMediate"]
+	path = RobustMediate
+	url = https://github.com/subirhait/robustmediate
+[submodule "achieveGap"]
+	path = achieveGap
+	url = https://github.com/subirhait/achievegap
+[submodule "aiDIF"]
+	path = aiDIF
+	url = https://github.com/subirhait/aidif
+[submodule "aiEvalR"]
+	path = aiEvalR
+	url = https://github.com/subirhait/aievalr
+[submodule "causalfrag"]
+	path = causalfrag
+	url = https://github.com/subirhait/causalfrag
+[submodule "confoundvis"]
+	path = confoundvis
+	url = https://github.com/subirhait/confoundvis
+[submodule "decisionpaths"]
+	path = decisionpaths
+	url = https://github.com/subirhait/decisionpaths
+[submodule "drmeta"]
+	path = drmeta
+	url = https://github.com/subirhait/drmeta
+[submodule "hlmLab"]
+	path = hlmLab
+	url = https://github.com/subirhait/hlmlab
+[submodule "metaLong"]
+	path = metaLong
+	url = https://github.com/subirhait/metalong
+[submodule "mlmoderator"]
+	path = mlmoderator
+	url = https://github.com/subirhait/mlmoderator
+[submodule "rdstagger"]
+	path = rdstagger
+	url = https://github.com/subirhait/rdstagger
+[submodule "socialdrift"]
+	path = socialdrift
+	url = https://github.com/subirhait/socialdrift
+[submodule "statAPA"]
+	path = statAPA
+	url = https://github.com/subirhait/statapa
